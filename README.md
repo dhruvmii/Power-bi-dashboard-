@@ -1,0 +1,1 @@
+Check out the power BI project I built on Rick Supermarket! It gives insight into sales and profit in each state where they operate. It reveals a total sale of 2.30 millions, quantity of 38K and an overall profit of 286.40K across the USA. #DataAnalytics #BusinessGrowth 📊
